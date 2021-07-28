@@ -1,0 +1,66 @@
+/* Header-style */
+
+.header_bg {
+    background-color: #264653
+}
+
+.pera-color {
+    color: #E0E0E0;
+}
+
+.h2-color {
+    color: #E0E0E0;
+}
+
+
+/* fetured-color */
+.fetured-color {
+    color: #E76F51
+}
+
+
+/* Happy Clients itmes  */
+img.card-img-1 {
+    justify-content: center;
+    height: 149px;
+    width: 149px;
+
+
+}
+
+img.card-img-2 {
+    justify-content: center;
+    height: 149px;
+    width: 149px;
+
+}
+
+img.card-img-3 {
+    justify-content: center;
+    height: 149px;
+    width: 149px;
+
+}
+
+/* Card-styles */
+.card-happy {
+    margin: 0 auto;
+    padding: 3rem;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    padding: 4rem
+}
+
+.color-blue {
+    color: #23A6F0
+}
+
+.fa-1 {
+
+    color: #2b0429;
+}
+
+.fa-2 {
+    color: #ddd
+}
